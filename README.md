@@ -1,4 +1,4 @@
-# Olà,Seja-bem vindo, meu nome é gabrielly.👑
+# Olà,Seja-bem vindo, meu nome é gabyy.👑
 .🎒.Cursando Informática 1/3
 .📖.Atualmente Estudando Na EEEP de Alto Santo.
 .🇧🇷.Sou Brasileira
@@ -36,7 +36,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 ![](https://visitcount.itsvg.in/api?id=ash-codes18&icon=1&color=10)
 
 
-![Gaby GitHub stats](https://github-readme-stats.vercel.app/api?username=ollivermariia&show_icons=true&theme=dark)
+![Gaby GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielly&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark)
 
 
