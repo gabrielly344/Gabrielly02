@@ -1,4 +1,4 @@
-# Olà,Seja-bem vindo, meu nome é gabyy.👑
+
 .🎒.Cursando Informática 1/3
 .📖.Atualmente Estudando Na EEEP de Alto Santo.
 .🇧🇷.Sou Brasileira
